@@ -18,6 +18,6 @@
 
 ---
 
-[Email](mailto:daiq@live.cn) • [Instagram](https://www.instagram.com/daijc.eth/) • [Linkedin](https://www.linkedin.com/in/daijc/?locale=zh_CN)
+[Email](mailto:daiq@live.cn) • [Instagram](https://www.instagram.com/daijc.eth/) • [Linkedin](https://www.linkedin.com/in/daijc/?locale=zh_CN) • [Medium](https://daijc.me)
 
 个人网站：[www.digidai.com](https://www.digidai.com)
