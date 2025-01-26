@@ -1,10 +1,12 @@
 # 戴金乘
 
-> 用户增长 • 私域增长 • 用户产品
+> 用户增长 • 平台产品 • 用户产品
 >
-> 擅长社区、社交和工具产品，熟悉招聘、运动健身、电商和共享领域
+> 擅长平台和工具产品，熟悉招聘、运动健身、电商和共享领域
 
 ### 职业经历
+
+- 平台产品负责人 @ 作业帮
 
 - 用户产品负责人 @ 猎聘
 
@@ -20,6 +22,6 @@
 
 ---
 
-[Email](mailto:daiq@live.cn) • [Instagram](https://www.instagram.com/daijc.eth/) • [Linkedin](https://www.linkedin.com/in/daijc/?locale=zh_CN) • [Medium](https://daijc.me)
+[Email](mailto:daiq@live.cn) • [Instagram](https://www.instagram.com/gene_dai_) • [Linkedin](https://www.linkedin.com/in/daijc/?locale=zh_CN) • [Medium](https://medium.com/@daijc)
 
 个人网站：[www.digidai.com](https://www.digidai.com)
