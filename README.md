@@ -1,5 +1,7 @@
 # 戴金乘
 
+Co-Founder @ [OpenJobs AI](https://www.openjobs-ai.com/)
+
 > 用户增长 • 平台产品 • 用户产品
 >
 > 擅长平台和工具产品，熟悉招聘、运动健身、电商和共享领域
