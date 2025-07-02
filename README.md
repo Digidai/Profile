@@ -24,6 +24,6 @@ Co-Founder @ [OpenJobs AI](https://www.openjobs-ai.com/)
 
 ---
 
-[Email](mailto:daiq@live.cn) • [Instagram](https://www.instagram.com/gene_dai_) • [Linkedin](https://www.linkedin.com/in/daijc/?locale=zh_CN) • [Medium](https://medium.com/@daijc)
+[Email](mailto:daiq@live.cn) • [Instagram](https://www.instagram.com/gene_dai_) • [Linkedin](https://www.linkedin.com/in/daijc/?locale=zh_CN) • [Medium](https://medium.com/@daijc) • [Github](https://digidai.github.io/)
 
 个人网站：[www.digidai.com](https://www.digidai.com)
