@@ -9,15 +9,15 @@ Co-Founder @ [OpenJobs AI](https://www.openjobs-ai.com/)
 
 ### Work Experience
 
-- Head of Platform Product @ Zuoyebang
+- Head of Platform Product @ Zuoyebang（The largest K12 online education platform in China）
 
-- Head of User Product @ Liepin
+- Head of User Product @ Liepin (6100.HK)
 
-- Product Director @ SMZDM
+- Product Director @ Zhidemai Tech (300785.SZ)
 
-- Head of Community and Social Product @ Boss Zhipin
+- Head of Community and Social Product @ BOSS Zhipin (BZ/2076.HK)
 
-- Head of Product and Business @ Kanzhun
+- Head of Product of Kanzhun @ BOSS Zhipin (BZ/2076.HK)
 
 - Head of Product @ Duola Printing
 
