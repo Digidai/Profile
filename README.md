@@ -1,29 +1,30 @@
-# 戴金乘
+# Jincheng Dai
 
 Co-Founder @ [OpenJobs AI](https://www.openjobs-ai.com/)
 
-> 用户增长 • 平台产品 • 用户产品
+> User Growth • Platform Products • User Products
 >
-> 擅长平台和工具产品，熟悉招聘、运动健身、电商和共享领域
+> Skilled in building platforms and tools, familiar with recruiting, fitness,
+> e-commerce, and the sharing economy
 
-### 职业经历
+### Work Experience
 
-- 平台产品负责人 @ 作业帮
+- Head of Platform Product @ Zuoyebang
 
-- 用户产品负责人 @ 猎聘
+- Head of User Product @ Liepin (6100.HK)
 
-- 产品总监 @ 什么值得买
+- Product Director @ SMZDM
 
-- 社区社交产品负责人 @ Boss 直聘
+- Head of Community and Social Product @ BOSS Zhipin (BZ/2076.HK)
 
-- 产品和业务负责人 @ 看准
+- Head of Product of Kanzhun @ BOSS Zhipin (BZ/2076.HK)
 
-- 产品负责人 @ 多拉打印
+- Head of Product @ Duola Printing
 
-- 产品合伙人 & CPO @ Feel
+- Product Partner & CPO @ Feel
 
 ---
 
-[Email](mailto:daiq@live.cn) • [Instagram](https://www.instagram.com/gene_dai_) • [Linkedin](https://www.linkedin.com/in/daijc/?locale=zh_CN) • [Medium](https://medium.com/@daijc) • [Github](https://digidai.github.io/)
+[Email](mailto:daiq@live.cn) • [Instagram](https://www.instagram.com/gene_dai_) • [LinkedIn](https://www.linkedin.com/in/genedai) • [Medium](https://medium.com/@genedai) • [Github](https://digidai.github.io/)
 
-个人网站：[www.digidai.com](https://www.digidai.com)
+Personal website: [www.digidai.com](https://www.digidai.com)
