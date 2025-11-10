@@ -1,4 +1,4 @@
-# Jincheng Dai
+# Gene Dai
 
 **Co-Founder @ [OpenJobs AI](https://www.openjobs-ai.com/)**
 
