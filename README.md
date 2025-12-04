@@ -19,6 +19,6 @@
 ---
 
 ### Contact
-[Email](mailto:daiq@live.cn) · [Instagram](https://www.instagram.com/gene_dai_) · [LinkedIn](https://www.linkedin.com/in/genedai) · [Medium](https://medium.com/@genedai) · [Github](https://digidai.github.io/)
+[Email](mailto:daiq@live.cn) · [Instagram](https://www.instagram.com/gene_dai_) · [LinkedIn](https://www.linkedin.com/in/genedai) · [Medium](https://medium.com/@genedai) · [Github](https://digidai.github.io/) · [www.digidai.com](https://www.digidai.com)
 
-**Personal website:** [www.digidai.com](https://www.digidai.com)
+**Personal website:** [https://genedai.me/](https://genedai.me/)
