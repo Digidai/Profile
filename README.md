@@ -2,7 +2,7 @@
 
 **Co-Founder @ [OpenJobs AI](https://www.openjobs-ai.com/)**
 
-> User Growth · Platform Products · User Products  
+> User Growth · Platform Products · User Products
 > Skilled in building platforms and tools, familiar with recruiting, fitness, e-commerce, and the sharing economy.
 
 ---
@@ -22,3 +22,8 @@
 [Email](mailto:daiq@live.cn) · [Instagram](https://www.instagram.com/gene_dai_) · [LinkedIn](https://www.linkedin.com/in/genedai) · [Medium](https://medium.com/@genedai) · [Github](https://digidai.github.io/) · [digidai.com](https://www.digidai.com) · [linktr](https://linktr.ee/genedai)
 
 **Personal website:** [genedai.me](https://genedai.me/)
+
+---
+
+### 中文版
+需要中文简介？请访问 [README.zh.md](README.zh.md)。
