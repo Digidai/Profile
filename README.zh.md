@@ -1,4 +1,4 @@
-# 戴勤（Gene Dai）
+# 戴金乘（Gene Dai）
 
 **联合创始人 @ [OpenJobs AI](https://www.openjobs-ai.com/)**
 
