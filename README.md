@@ -26,4 +26,4 @@
 ---
 
 ### 中文版
-需要中文简介？请访问 [README.zh.md](README.zh.md)。
+中文版本 [README.zh.md](README.zh.md)。
